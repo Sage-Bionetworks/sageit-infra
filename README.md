@@ -1,3 +1,6 @@
+# This repo has moved to https://github.com/Sage-Bionetworks-IT/organizations-infra/tree/master/sceptre/sageit
+
+
 # Overview
 Install, configure and manage the AWS org-sagebase-sageit account.
 
